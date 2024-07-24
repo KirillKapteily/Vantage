@@ -1,49 +1,54 @@
-.logo{
+.logo {
     background-color: #99823D;
 }
 
-.header-list-nav{
+.header-list-nav {
     display: flex;
     gap: 37px;
     list-style: none;
     text-decoration: none;
 }
 
-.header-list-arc{
-    display: flex;
-    gap: 10px;
-    list-style: none;
-    text-decoration: none;
-}
-
-.header-item{
+.header-link{
     color: white;
 }
 
-.main-list-nav{
+.header-list-arc {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header-item {
+    color: white;
+}
+
+.main-list-nav {
     display: flex;
     gap: 10px;
     text-decoration: none;
     list-style: none;
 }
 
-.heaader-backround{
+.heaader-backround {
     background-color: black;
     /* width: 1440px;
     height:68px ; */
 }
 
-.heart{
-
+.backround-header {
+    background-color: black;
 }
-header{
+
+header {
     display: flex;
 }
 
-.card-news{
+.card-news {
     list-style: none;
 }
 
-.about-us{
-list-style: none;
+.about-us {
+    list-style: none;
 }
