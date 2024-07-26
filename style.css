@@ -1,5 +1,14 @@
+
+:root{
+
+}
+
 .logo {
     background-color: #99823D;
+}
+
+body{ 
+      font-family: "Open Sans", sans-serif;
 }
 
 .header-list-nav {
@@ -7,6 +16,78 @@
     gap: 37px;
     list-style: none;
     text-decoration: none;
+}
+
+.about-us-title{
+    color: rgb(20, 20, 20);
+font-family: Teko;
+font-size: 59px;
+font-weight: 700;
+line-height: 58.65px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.card-info{
+    color: rgb(20, 20, 20);
+font-family: Teko;
+font-size: 26px;
+font-weight: 400;
+line-height: 26.11px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+
+.title-servises{
+    color: rgb(20, 20, 20);
+font-family: Teko;
+font-size: 53px;
+font-weight: 700;
+line-height: 52.96px;
+letter-spacing: 0%;
+}
+
+.card-title-i{
+    color: rgb(255, 255, 255);
+font-family: Teko;
+font-size: 26px;
+font-weight: 400;
+line-height: 26.11px;
+letter-spacing: 0%;
+}
+
+.new-info{
+    color: rgb(20, 20, 20);
+    font-family: Teko;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26.11px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.main-title{
+    color: rgb(20, 20, 20);
+font-family: Teko;
+font-size: 53px;
+font-weight: 400;
+line-height: 52.96px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+
+.card-title{
+    color: rgb(20, 20, 20);
+font-family: Teko;
+font-size: 67px;
+font-weight: 400;
+line-height: 67.03px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
 }
 
 .header-link{
@@ -43,6 +124,7 @@
 
 header {
     display: flex;
+    background-color: #141414;
 }
 
 .card-news {
